@@ -1,0 +1,15 @@
+.filter-item {
+  margin: 10px;
+  font-weight: bold;
+}
+.tab-button {
+  outline: none;
+  border: none;
+  background-color: transparent;
+}
+
+.selected {
+  text-decoration: underline;
+  color: red;
+  background-color: aqua;
+}
